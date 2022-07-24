@@ -86,8 +86,8 @@ const namagrup = "Group Dit" // Ubah Nama Group Mu
 // Setting Donasi
 const gopay = "SEND KE QRIS : https://ibb.co/9gzMpYQ" // Ganti Nomor Gopay Mu
 const pulsa = "SEND KE QRIS : https://ibb.co/9gzMpYQ" // Ganti No Pulsa Mu
-const insta = "chris.tianid" // Ganti Nama IG Mu
-const github = "TianBot1" // Ganti Nama Github Mu
+const insta = "mhmdittyaa_" // Ganti Nama IG Mu
+const github = "DittOfficial" // Ganti Nama Github Mu
 const linkdonasi = "SEND KE QRIS : https://ibb.co/9gzMpYQ" // Ganti Link Qris Mu
 
 // Setting SewaBot Ubah Harga Sesuai Harga Mu//
